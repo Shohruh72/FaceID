@@ -1,6 +1,7 @@
 ### Face Identification inference code using ONNX Runtime
 
 AdaFace: Quality Adaptive Margin for Face Recognition
+![Vizualization](https://github.com/Shohruh72/FaceID/blob/main/demo/output_demo.gif)
 
 ### Installation
 
